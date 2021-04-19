@@ -1,0 +1,203 @@
+/**********************/
+.top-container {
+  height: 100%;
+  text-align: center;
+  background-color: #E4F9F5;
+  position: relative;
+  
+  padding-top: 100px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+
+  
+}
+.skill-row {
+
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.programming {
+  
+  font-size: 1rem;
+ 
+
+}
+.programming1 {
+  
+  font-size: 2.5rem;
+  margin: 0;
+  padding: 1px;
+}
+.killingText {
+  
+  font-size: 1rem;
+  
+  
+  
+}
+.killingText1 {
+  
+  font-size: 2.5rem;
+  padding: 1px;
+
+  margin: 0;
+
+  
+  
+}
+
+  
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+}
+/*
+     1em = 100% = 16px font
+
+     */
+
+h1 {
+  /*color: chocolate;  */
+  color: #66BFBF;
+  
+
+  font-size: 5.630rem;
+  margin: 50px auto 0 auto ;
+  font-family: 'Sacramento', cursive;
+  
+}
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.middle-container {
+  padding: 100px;
+  
+  line-height: 2;
+  background-color: rgb(212, 216, 230);
+  
+}
+.bottom-container {
+  padding: 0;
+  margin: 0;
+  background-color: linen;
+} 
+
+.skills {
+  
+}
+
+
+
+.prof {
+  height: 500px;
+  
+  
+  
+}
+.coding {
+  /*
+  border-radius: 30px;
+  float: left;
+  height: 350px;
+  */
+  width: 25%;
+  float: left;
+  padding: 30px;
+  height: 130px;
+  border-radius: 50px;
+  
+  
+}
+.killing {
+
+  /*
+  height: 350px;
+   border-radius: 30px;
+  float: left; 
+  */
+  width: 25%;
+  float: right;
+  padding: 30px;
+  height: 130px;
+  border-radius: 50px;
+
+
+
+}
+.killing:hover {
+  height: 300px;
+  width: 300px;
+}
+.coding:hover {
+  
+    height: 300px;
+    width: 300px;
+  
+}
+.filthy {
+  height: 500px;
+  border-radius: 500px;
+  
+}
+
+.pro {
+  text-decoration: underline;
+
+}
+.bottom-cloud {
+  position: absolute;
+  left : 300px;
+  bottom: 300px;
+  
+  height: 100px;
+}
+.top-cloud {
+   position: absolute;
+   position: fixed;
+   
+   right: 300px;
+   top : 50px;
+  height: 70px;
+
+}
+
+hr {
+  width: 15%;
+  border-style: none;
+  border-top: dotted;
+  border-width: 10px;
+  color: burlywood;
+}
+
+.mountain {
+  height: 572px;
+  margin: 0;
+  padding: 0;
+ 
+}
+h1:hover {
+  color: darkmagenta;
+}
+h2:hover {
+     color: darkorange;
+}
+h3:hover {
+  color: darkorange;
+}
+p:hover {
+  color: indigo;
+}
